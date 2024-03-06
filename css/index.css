@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin: 16px;
+}
+
+header, footer {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+p {
+    text-indent: 24px;
+}
+
+.p-noindent {
+    text-indent: 0px;
+}
+
+.p-nolinespace {
+    line-height: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8px;
+}
